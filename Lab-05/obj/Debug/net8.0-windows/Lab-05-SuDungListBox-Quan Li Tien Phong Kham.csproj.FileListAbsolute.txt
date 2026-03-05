@@ -1,0 +1,32 @@
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.exe
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.deps.json
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.runtimeconfig.json
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.dll
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.pdb
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab_05_SuDungListBox_Quan_Li_Tien_Phong_Kham.Form1.resources
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.csproj.GenerateResource.cache
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.AssemblyInfoInputs.cache
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.AssemblyInfo.cs
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.csproj.CoreCompileInputs.cache
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.dll
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\refint\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.dll
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.pdb
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.genruntimeconfig.cache
+C:\Users\TanPhu\source\repos\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\ref\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.dll
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.exe
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.deps.json
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.runtimeconfig.json
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.dll
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\bin\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.pdb
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab_05_SuDungListBox_Quan_Li_Tien_Phong_Kham.Form1.resources
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.csproj.GenerateResource.cache
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.GeneratedMSBuildEditorConfig.editorconfig
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.AssemblyInfoInputs.cache
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.AssemblyInfo.cs
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.csproj.CoreCompileInputs.cache
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.dll
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\refint\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.dll
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.pdb
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.genruntimeconfig.cache
+D:\đại học\Lab-05-SuDungListBox-Quan Li Tien Phong Kham\obj\Debug\net8.0-windows\ref\Lab-05-SuDungListBox-Quan Li Tien Phong Kham.dll
